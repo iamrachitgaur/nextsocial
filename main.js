@@ -771,7 +771,7 @@ class OwnersComponent {
             { image: '/assets/teams/MUSKAN_SHARMA_(HR-HEAD).jpg', name: 'Muskan Sharma', position: 'HR Head' },
             { image: '/assets/teams/ROHIT_SHARMA_(ACCOUNTANT).jpg', name: 'Rohit Sharma', position: 'Accountant' },
             { image: '/assets/teams/PRADUMN_CHAUHAN_(MARKETING-HEAD).jpg', name: 'Pradumn Chauhan', position: 'Marketing Head' },
-            { image: '/assets/teams/EKANSH_SHARMA_(SENIOR-WEB-DEVELOPER).jpg', name: "EKANSH SHARMA", position: "Senior Web Developer" },
+            { image: '/assets/teams/EKANSH_SHARMA_(SENIOR-WEB-DEVELOPER).jpg', name: "Ekansh Sharma", position: "Senior Web Developer" },
             { image: '/assets/teams/RACHIT_GAUR_(WEB-DEVELOPER).jpg', name: 'Rachit Gaur', position: 'Web Developer' },
             { image: '/assets/teams/ANANYA_(CONTENT-CREATOR).jpg', name: 'Ananya', position: 'Content Creator' },
             { image: '/assets/teams/PUSHPENDRA_SHARMA_(GRAPHIC-DESIGNER).jpg', name: 'Pushpendra', position: 'Graphic Designer' },
