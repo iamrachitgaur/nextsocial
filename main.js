@@ -769,8 +769,8 @@ class OwnersComponent {
         this.owners = [
             { image: '/assets/teams/SHRUTI_PANCHAL_(BUSINESS-DEVELOPMENT-MANAGER).jpg', name: 'Shruti Panchal', position: 'Bussiness Head' },
             { image: '/assets/teams/MUSKAN_SHARMA_(HR-HEAD).jpg', name: 'Muskan Sharma', position: 'HR Head' },
-            { image: '/assets/teams/PRADUMN_CHAUHAN_(MARKETING-HEAD).jpg', name: 'Pradumn Chauhan', position: 'Marketing Head' },
             { image: '/assets/teams/ROHIT_SHARMA_(ACCOUNTANT).jpg', name: 'Rohit Sharma', position: 'Accountant' },
+            { image: '/assets/teams/PRADUMN_CHAUHAN_(MARKETING-HEAD).jpg', name: 'Pradumn Chauhan', position: 'Marketing Head' },
             { image: '/assets/teams/EKANSH_SHARMA_(SENIOR-WEB-DEVELOPER).jpg', name: "EKANSH SHARMA", position: "Senior Web Developer" },
             { image: '/assets/teams/RACHIT_GAUR_(WEB-DEVELOPER).jpg', name: 'Rachit Gaur', position: 'Web Developer' },
             { image: '/assets/teams/ANANYA_(CONTENT-CREATOR).jpg', name: 'Ananya', position: 'Content Creator' },
