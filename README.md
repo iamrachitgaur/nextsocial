@@ -1,2 +1,2 @@
 # nextsocial
-Coming Soon...
+All Rights Reserved 2025
