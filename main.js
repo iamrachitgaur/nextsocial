@@ -776,6 +776,8 @@ class OwnersComponent {
             { image: '/assets/teams/ANANYA_(CONTENT-CREATOR).jpg', name: 'Ananya', position: 'Content Creator' },
             { image: '/assets/teams/PUSHPENDRA_SHARMA_(GRAPHIC-DESIGNER).jpg', name: 'Pushpendra', position: 'Graphic Designer' },
             { image: '/assets/teams/ANUJ_(VIDEO-EDITOR).jpg', name: 'Anuj', position: 'Video Editor' },
+	    { image: '/assets/teams/Customer_Executive(1).png', name: 'Pragati Sharma', position: 'Customer Executive' },
+		
         ];
     }
     ngOnInit() {
