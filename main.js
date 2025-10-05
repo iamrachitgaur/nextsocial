@@ -357,7 +357,7 @@ class AboutComponent {
     }
 }
 AboutComponent.ɵfac = function AboutComponent_Factory(t) { return new (t || AboutComponent)(); };
-AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 72, vars: 0, consts: [[1, "my-5", "container"], [1, "about-border-black"], [1, "row", "my-4", "gap-3"], [1, "col-md"], [1, "heading-2", "text-uppercase", "fw-bolder", 2, "line-height", "38px"], [1, "heading-6", "text-end"], [1, "fw-semibold"], [1, "my-3", "py-3", "d-flex", "flex-wrap", "about-gradient", "rounded-4", "justify-content-center", "gap-4"], [1, "card"], [1, "p-2"], ["src", "/assets/about/JATIN_KUMAR_(FOUNDER).jpg", "alt", "founder", 1, "img-fluid", "rounded-4", "about-image"], [1, "mb-3", "fw-semibold"], [1, "px-3", "py-2", "heading-6", "bg-voilet", "rounded-3", 2, "transform", "translateY(-15px)", "line-height", "17px"], [1, "px-3", "heading-6", "fw-semibold"], ["src", "/assets/about/HARMESH_KANT_(CO-FOUNDER).jpg", "alt", "user", 1, "img-fluid", "rounded-4", "about-image"], [1, "mb-3"], ["src", "/assets/about/HARSHIT_KUMAR_(DIRECTOR).jpg", "alt", "user", 1, "img-fluid", "rounded-4", "about-image"], [1, "my-3", "p-5", "bg-voilet", "rounded-4"], [1, "my-5"], [1, "row", "align-items-center"], [1, "heading-2", "fw-semibold"], [1, "heading-6"], [1, "my-3"], [1, "about-border"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
+AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 72, vars: 0, consts: [[1, "my-5", "container"], [1, "about-border-black"], [1, "row", "my-4", "gap-3"], [1, "col-md"], [1, "heading-2", "text-uppercase", "fw-bolder", 2, "line-height", "38px"], [1, "heading-6", "text-end"], [1, "fw-semibold"], [1, "my-3", "py-3", "d-flex", "flex-wrap", "about-gradient", "rounded-4", "justify-content-center", "gap-4"], [1, "card"], [1, "p-2"], ["src", "/assets/teams/RACHIT_GAUR_(WEB-DEVELOPER).jpg", "alt", "founder", 1, "img-fluid", "rounded-4", "about-image"], [1, "mb-3", "fw-semibold"], [1, "px-3", "py-2", "heading-6", "bg-voilet", "rounded-3", 2, "transform", "translateY(-15px)", "line-height", "17px"], [1, "px-3", "heading-6", "fw-semibold"], ["src", "/assets/about/HARMESH_KANT_(CO-FOUNDER).jpg", "alt", "user", 1, "img-fluid", "rounded-4", "about-image"], [1, "mb-3"], ["src", "/assets/about/HARSHIT_KUMAR_(DIRECTOR).jpg", "alt", "user", 1, "img-fluid", "rounded-4", "about-image"], [1, "my-3", "p-5", "bg-voilet", "rounded-4"], [1, "my-5"], [1, "row", "align-items-center"], [1, "heading-2", "fw-semibold"], [1, "heading-6"], [1, "my-3"], [1, "about-border"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -384,9 +384,9 @@ AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCom
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "img", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 11);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, "JATIN ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, "RACHIT ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](21, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, " KUMAR");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, " GAUR");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "div", 13);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](24, "FOUNDER");
@@ -772,12 +772,10 @@ class OwnersComponent {
             { image: '/assets/teams/ROHIT_SHARMA_(ACCOUNTANT).jpg', name: 'Rohit Sharma', position: 'Accountant' },
             { image: '/assets/teams/PRADUMN_CHAUHAN_(MARKETING-HEAD).jpg', name: 'Pradumn Chauhan', position: 'Marketing Head' },
             { image: '/assets/teams/EKANSH_SHARMA_(SENIOR-WEB-DEVELOPER).jpg', name: "Ekansh Sharma", position: "Senior Web Developer" },
-            { image: '/assets/teams/RACHIT_GAUR_(WEB-DEVELOPER).jpg', name: 'Rachit Gaur', position: 'Web Developer' },
+            { image: '/assets/about/JATIN_KUMAR_(FOUNDER).jpg', name: 'Jatin Kumar', position: 'Graphic Designer' },
             { image: '/assets/teams/ANANYA_(CONTENT-CREATOR).jpg', name: 'Ananya', position: 'Content Creator' },
             { image: '/assets/teams/PUSHPENDRA_SHARMA_(GRAPHIC-DESIGNER).jpg', name: 'Pushpendra', position: 'Graphic Designer' },
             { image: '/assets/teams/ANUJ_(VIDEO-EDITOR).jpg', name: 'Anuj', position: 'Video Editor' },
-	    { image: '/assets/teams/Customer_Executive(1).png', name: 'Pragati Sharma', position: 'Customer Executive' },
-		
         ];
     }
     ngOnInit() {
@@ -1347,3 +1345,4 @@ webpackEmptyAsyncContext.id = "zn8P";
 
 },[[0,"runtime","vendor"]]]);
 //# sourceMappingURL=main.js.map
+
