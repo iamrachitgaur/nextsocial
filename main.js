@@ -767,12 +767,12 @@ function OwnersComponent_div_14_Template(rf, ctx) { if (rf & 1) {
 class OwnersComponent {
     constructor() {
         this.owners = [
+			{ image: '/assets/about/JATIN_KUMAR_(FOUNDER).jpg', name: 'Jatin Kumar', position: 'Social Media Executive' },
             { image: '/assets/teams/SHRUTI_PANCHAL_(BUSINESS-DEVELOPMENT-MANAGER).jpg', name: 'Shruti Panchal', position: 'Bussiness Head' },
             { image: '/assets/teams/MUSKAN_SHARMA_(HR-HEAD).jpg', name: 'Muskan Sharma', position: 'HR Head' },
             { image: '/assets/teams/ROHIT_SHARMA_(ACCOUNTANT).jpg', name: 'Rohit Sharma', position: 'Accountant' },
             { image: '/assets/teams/PRADUMN_CHAUHAN_(MARKETING-HEAD).jpg', name: 'Pradumn Chauhan', position: 'Marketing Head' },
             { image: '/assets/teams/EKANSH_SHARMA_(SENIOR-WEB-DEVELOPER).jpg', name: "Ekansh Sharma", position: "Senior Web Developer" },
-            { image: '/assets/about/JATIN_KUMAR_(FOUNDER).jpg', name: 'Jatin Kumar', position: 'Graphic Designer' },
             { image: '/assets/teams/ANANYA_(CONTENT-CREATOR).jpg', name: 'Ananya', position: 'Content Creator' },
             { image: '/assets/teams/PUSHPENDRA_SHARMA_(GRAPHIC-DESIGNER).jpg', name: 'Pushpendra', position: 'Graphic Designer' },
             { image: '/assets/teams/ANUJ_(VIDEO-EDITOR).jpg', name: 'Anuj', position: 'Video Editor' },
@@ -1345,5 +1345,6 @@ webpackEmptyAsyncContext.id = "zn8P";
 
 },[[0,"runtime","vendor"]]]);
 //# sourceMappingURL=main.js.map
+
 
 
