@@ -1233,7 +1233,7 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](29, "i", 17);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "address");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "a", 18);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "K-13 Vikram Colony Ram Ghat Road Aligarh UP 202001");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "C Lal Chowk, Govindpuri, Delhi");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1345,4 +1345,5 @@ webpackEmptyAsyncContext.id = "zn8P";
 
 },[[0,"runtime","vendor"]]]);
 //# sourceMappingURL=main.js.map
+
 
